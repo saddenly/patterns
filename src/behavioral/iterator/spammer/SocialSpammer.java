@@ -1,8 +1,8 @@
-package iterator.spammer;
+package behavioral.iterator.spammer;
 
-import iterator.iterators.ProfileIterator;
-import iterator.profile.Profile;
-import iterator.social_networks.SocialNetwork;
+import behavioral.iterator.iterators.ProfileIterator;
+import behavioral.iterator.profile.Profile;
+import behavioral.iterator.social_networks.SocialNetwork;
 
 public class SocialSpammer {
     public SocialNetwork network;

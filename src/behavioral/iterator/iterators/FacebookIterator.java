@@ -1,7 +1,7 @@
-package iterator.iterators;
+package behavioral.iterator.iterators;
 
-import iterator.profile.Profile;
-import iterator.social_networks.Facebook;
+import behavioral.iterator.profile.Profile;
+import behavioral.iterator.social_networks.Facebook;
 
 import java.util.ArrayList;
 import java.util.List;

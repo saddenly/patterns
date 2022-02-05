@@ -1,4 +1,4 @@
-package iterator.profile;
+package behavioral.iterator.profile;
 
 import java.util.ArrayList;
 import java.util.HashMap;

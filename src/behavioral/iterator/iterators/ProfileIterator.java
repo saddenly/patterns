@@ -1,6 +1,6 @@
-package iterator.iterators;
+package behavioral.iterator.iterators;
 
-import iterator.profile.Profile;
+import behavioral.iterator.profile.Profile;
 
 public interface ProfileIterator {
     boolean hasNext();
